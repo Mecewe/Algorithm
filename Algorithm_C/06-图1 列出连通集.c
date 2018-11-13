@@ -1,7 +1,7 @@
 /*
-Tip:此为简版Code 
-	DFS 递归 
-	BFS 队列 
+Tip: Simple Code 
+	DFS recursion
+	BFS queue
 */
 
 #include <stdio.h>
